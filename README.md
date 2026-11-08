@@ -1,9 +1,8 @@
-### Hi there 👋, I'm [Aapka Naam]
+### Hi there 👋, I'm Muhammad Ali Khafagyy
 
-- 🔭 I’m currently working on **[Aapka Current Project/Role]**
-- 🌱 I’m currently learning **[New Tech Stack]**
-- 💬 Ask me about **[Aapke Skills, jaise: React, Node.js, Python]**
-- 📫 How to reach me: **[Aapki Email ID / LinkedIn Profile]**
+- 🔭 I’m currently working on **Android and Web devolopment**
+- 🌱 I’m currently learning **Java and Xml**
+- 📫 How to reach me: **Muhammadalikhafagyy@gmail.com**
 
 ---
 
